@@ -1,0 +1,9 @@
+exports[`Our first snapshot test Should compare the component with a snapshot 1`] = `
+<p
+  className="App-intro">
+  to get started, edit 
+  <code>
+    src/app.js
+  </code>
+</p>
+`;
